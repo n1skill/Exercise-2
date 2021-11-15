@@ -1,0 +1,14 @@
+# Exercise 1
+
+x = str(input())
+print(int(x))
+
+# Exercise 2
+
+y = int(input())
+print(float(y))
+
+# Exercise 3
+
+z = float(input())
+print(int(z))
